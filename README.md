@@ -14,7 +14,9 @@ I really like the basic idea behind services like Spotify and Google Play Music 
 These are the features and design decisions I would like for this application. Italicized features are considered low priority, and should not be worked on before v1.0 is complete.
 
 * Server software. Should maintain database of all songs and playlists, and be able to serve and receive music files from a variety of sources.
+  * probably gonna use Node.js?
 * Web app, for accessing music collection via browser
+  * Perhaps use [BinaryJS](http://binaryjs.com/) for streaming?
 * Android app, for accessing music collection via Android device (can use [this sample](https://github.com/googlesamples/android-UniversalMusicPlayer) as basis)
 * Easy integration with big platforms for importing/exporting/etc:
   * Bandcamp
