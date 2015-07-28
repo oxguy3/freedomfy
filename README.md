@@ -7,7 +7,7 @@ I really like the basic idea behind services like Spotify and Google Play Music 
 
 * **Openness.** You shouldn't be stuck with whatever awful decisions or designs some faceless corporation thrusts upon you. This project aims to be a free software alternative that anyone can tweak to whatever niche functionality they want.
 * **Pro user support.** Popular music services aim to please the lowest common denominator, and have only features that anyone can easily use. That's great for them, but I want more powerful tools. For this project, advanced functionality is higher priority than usability and intuitiveness.
-* **Connectedness.** Music is released on countless dozens of platforms; it only makes sense that your music library software should be easily compatible with as many of these as possible.
+* **Personal use.** Whereas popular music streaming services live on one massive cloud shared by all users, this project is designed so that each instance is only to be used by one user or a handful of users. This will simplify many aspects of development and allow more time to be spent on other features.
 
 ## Wishlist
 
