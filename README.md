@@ -25,3 +25,7 @@ These are the features and design decisions I would like for this application. I
   * _YouTube_
 * _Pull music metadata from Gracenote_
 * _Multiple users_
+
+## License
+
+This project is licensed under the MIT license; see [this page](http://oxguy3.mit-license.org) for details.
