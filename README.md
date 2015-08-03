@@ -1,5 +1,5 @@
-# freedomfy
-Open music software for personal library management and streaming.
+# LibreShelf
+Open software for cloud-based music library management
 
 ## Purpose
 
