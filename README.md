@@ -1,5 +1,5 @@
 # LibreShelf
-Open software for cloud-based music library management
+Open software for cloud-based music library management. Still in the very early planning stages (as of writing, I've just started experimenting with some Python scripts)
 
 ## Purpose
 
