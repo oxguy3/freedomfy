@@ -30,4 +30,18 @@ These are the features and design decisions I would like for this application. I
 
 ## License
 
-This project is licensed under the MIT license; see [this page](http://oxguy3.mit-license.org) for details.
+LibreShelf: Open software for cloud-based music library management
+Copyright (C) 2015 Hayden Schiff (oxguy3)
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of version 2 of the GNU General Public
+License as published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
