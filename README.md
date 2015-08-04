@@ -30,7 +30,7 @@ These are the features and design decisions I would like for this application. I
 
 ## License
 
-LibreShelf: Open software for cloud-based music library management
+LibreShelf: Open software for cloud-based music library management  
 Copyright (C) 2015 Hayden Schiff (oxguy3)
 
 This program is free software; you can redistribute it and/or
