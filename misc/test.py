@@ -15,7 +15,8 @@ BC_BASE_URL = "https://bandcamp.com"
 
 # /constants
 
-
+# logs in to a Bandcamp account
+# returns session with necessary cookies if successful; else returns False
 def bcLogin(user, passwd):
     session = requests.Session()
 
